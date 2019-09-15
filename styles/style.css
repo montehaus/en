@@ -775,10 +775,11 @@ p {
 	}
 	@media screen and (max-width: 360px) {
 		.maintext {
-			padding: 25px;
+			padding: 10px;
 		}
 		.maintextwb {
 			margin-bottom: 7px;
+			font-size: 1.1em;
 		}
 		.mainmenu>ul>a>li {
 			padding: 10px;
